@@ -1,5 +1,9 @@
-Les bikers?
-===========
+---
+layout: post
+---
+
+{{ page.title }}
+========
 
 Les bikers c’est quatre développeurs fiers de produire du code de qualité. C’est une équipe pleine de talents et de courage pour les exploiter au mieux. Ce qui nous importe c’est de faire en sorte d’écrire du logiciel maintenable par n’importe lequel d’entre nous, voire même n’importe quel développeur. Ayant toujours soif d’apprentissage, nous sommes à l'affût d'amélioration de nos connaissances et de nos compétences, ainsi nous sommes constamment à la recherche de nouveaux défis.
 
@@ -12,4 +16,3 @@ Heureusement, nous ne sommes pas parfaits et nous voulons encore nous entraîner
 Aujourd’hui nous avons une équipe qui a appris, et continue d’apprendre, à travailler ensemble. En effet, il s’est installé un climat de confiance et de respect permettant de parler des choses telles qu’elles sont et qui nous permettent de parler des problèmes et de les résoudre vraiment. Aujourd’hui, nous voulons capitaliser sur ce que nous avons appris et faire d’autres projets ensemble.
 
 Éloïse, membre des bikers
-
